@@ -8,5 +8,5 @@
 - ECMAScript Specification Types
   
          Reference, List, Completion,
-         Property Descriptor, Lexical Environment, 
+         Property Descriptor, Lexical Environment, Property Identifier Specification
          Environment Record, and Data Block
